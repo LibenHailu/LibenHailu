@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**LibenHailu/LibenHailu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Liben Hailu**, a passionate **DevOps / Cloud Engineer** who loves building scalable, reliable, and automated systems in the cloud.  
+I work with AWS, Kubernetes, Docker, CI/CD pipelines, and modern DevOps practices to deliver secure and efficient infrastructure solutions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏅 My Badges
+
+[![Continuous Contributor](https://badges.layer5.io/assets/badges/continuous-contributor/continuous-contributor.png)](https://cloud.layer5.io/user/baa00786-e3e5-47db-9dc7-e6e2b1e4dcb3?tab=badges&badge=continuous-contributor)
+[![Community](https://badges.layer5.io/assets/badges/community/community.png)](https://cloud.layer5.io/user/baa00786-e3e5-47db-9dc7-e6e2b1e4dcb3?tab=badges&badge=community)
+
+---
+
+## 🔧 Tech Stack
+
+- ☁️ **Cloud:** AWS, GCP, Azure  
+- 🐳 **Containers:** Docker, Kubernetes, Helm  
+- ⚡ **Automation & IaC:** Terraform, Ansible, GitHub Actions, Jenkins  
+- 💻 **Programming & Scripting:** Go, Python, Bash  
+- 🔒 **Other:** Linux, Monitoring, Security, CI/CD  
+
+---
+
+## 📫 Connect with Me
+
+- 🌐 [LinkedIn](https://www.linkedin.com/in/libenhailu)  
+- 🐙 [GitHub](https://github.com/libenhailu)  
+
