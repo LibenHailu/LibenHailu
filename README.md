@@ -9,10 +9,10 @@ I work with AWS, Kubernetes, Docker, CI/CD pipelines, and modern DevOps practice
 
 <p align="center">
   <a href="https://cloud.layer5.io/user/baa00786-e3e5-47db-9dc7-e6e2b1e4dcb3?tab=badges&badge=continuous-contributor">
-    <img src="https://badges.layer5.io/assets/badges/continuous-contributor/continuous-contributor.png" alt="Continuous Contributor"  width="224px" height="224px" />
+    <img src="https://badges.layer5.io/assets/badges/continuous-contributor/continuous-contributor.png" alt="Continuous Contributor"  width="200px" height="224px" />
   </a>
   <a href="https://cloud.layer5.io/user/baa00786-e3e5-47db-9dc7-e6e2b1e4dcb3?tab=badges&badge=community">
-    <img src="https://badges.layer5.io/assets/badges/community/community.png" alt="Community"  width="224px" height="224px" />
+    <img src="https://badges.layer5.io/assets/badges/community/community.png" alt="Community"  width="200px" height="224px" />
   </a>
 </p>
 
