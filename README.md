@@ -31,6 +31,6 @@ I work with AWS, Kubernetes, Docker, CI/CD pipelines, and modern DevOps practice
 
 ## 📫 Connect with Me
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/libenhailu)  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/liben-hailu)  
 - 🐙 [GitHub](https://github.com/libenhailu)  
 
